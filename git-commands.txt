@@ -4,3 +4,4 @@ git add
 git commit -m 
 git rm -rf <file name>
 git restore <file name>
+git clone
